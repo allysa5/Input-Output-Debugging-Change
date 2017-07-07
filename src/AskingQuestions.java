@@ -38,6 +38,8 @@ public class AskingQuestions {
 
 	    System.out.println("the average value is"+ (num1+num2)/2);
 	    keyboard.close();
+	    
+	    System.out.println("Thanks");
 	}
 
 }
